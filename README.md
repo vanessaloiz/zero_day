@@ -1,3 +1,1 @@
-Task the zero_day
-
-# zero_day
+Task of Zero Day
