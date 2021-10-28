@@ -1,1 +1,1 @@
-Task for the project 0x03-git
+Task for 0x03-git
